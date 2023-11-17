@@ -1,4 +1,4 @@
-Certainly! Below is a template for your README.md file for the `reelo_questionPaperGeneration` project. I've included sections for describing the project, how to generate random dummy data, and how to customize percentages for difficulty and topics.
+I've included sections for describing the project, how to generate random dummy data, and how to customize percentages for difficulty and topics.
 
 ```markdown
 # reelo_questionPaperGeneration
