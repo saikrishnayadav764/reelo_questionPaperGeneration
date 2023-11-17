@@ -1,6 +1,6 @@
 I've included sections for describing the project, how to generate random dummy data, and how to customize percentages for difficulty and topics.
 
-```markdown
+
 # reelo_questionPaperGeneration
 
 ## Overview
